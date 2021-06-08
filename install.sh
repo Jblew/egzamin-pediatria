@@ -1,0 +1,1 @@
+go get github.com/Jblew/markdown2paper@v1.1.0
