@@ -6,8 +6,9 @@ Przygotowanie do egzaminu z Pediatrii
 
 ## Outline
 
-1. WIP
-2. Pytania jeszcze bez odpowiedzi
+1. [023 Co poradzisz matce, która pyta kiedy ma przestać karmić piersią swoje dziecko?](./odpowiedzi/023%20Co%20poradzisz%20matce,%20która%20pyta%20kiedy%20ma%20przestać%20karmić%20piersią%20swoje%20dziecko?.md)
+2. WIP
+3. Pytania jeszcze bez odpowiedzi
    1. [001 Refluks a choroba refluksowa przełyku – różnicowanie, diagnostyka, postępowanie](./odpowiedzi/001%20Refluks%20a%20choroba%20refluksowa%20przełyku%20–%20różnicowanie,%20diagnostyka,%20postępowanie.md)
    1. [002 Alergia pokarmowa u dzieci](./odpowiedzi/002%20Alergia%20pokarmowa%20u%20dzieci.md)
    1. [003 Zaparcie czynnościowe – objawy, diagnostyka, leczenie](./odpowiedzi/003%20Zaparcie%20czynnościowe%20–%20objawy,%20diagnostyka,%20leczenie.md)
@@ -30,7 +31,6 @@ Przygotowanie do egzaminu z Pediatrii
    1. [020 Objawy, diagnostyka i leczenie przerostowego zwężenia odźwiernika](./odpowiedzi/020%20Objawy,%20diagnostyka%20i%20leczenie%20przerostowego%20zwężenia%20odźwiernika.md)
    1. [021 Diagnostyka krwawienia z dolnego odcinka przewodu pokarmowego](./odpowiedzi/021%20Diagnostyka%20krwawienia%20z%20dolnego%20odcinka%20przewodu%20pokarmowego.md)
    1. [022 Leczenie ostrego zapalenia trzustki u dziecka](./odpowiedzi/022%20Leczenie%20ostrego%20zapalenia%20trzustki%20u%20dziecka.md)
-   1. [023 Co poradzisz matce, która pyta kiedy ma przestać karmić piersią swoje dziecko?](./odpowiedzi/023%20Co%20poradzisz%20matce,%20która%20pyta%20kiedy%20ma%20przestać%20karmić%20piersią%20swoje%20dziecko?.md)
    1. [024 Objawy kamicy pęcherzyka żółciowego u dziecka 10. Letniego](./odpowiedzi/024%20Objawy%20kamicy%20pęcherzyka%20żółciowego%20u%20dziecka%2010.%20Letniego.md)
    1. [025 Objawy alarmujące w uprzednio rozpoznanych czynnościowych bólach brzucha u 12-latki](./odpowiedzi/025%20Objawy%20alarmujące%20w%20uprzednio%20rozpoznanych%20czynnościowych%20bólach%20brzucha%20u%2012-latki.md)
    1. [026 Przyczyny wielomoczu u dzieci](./odpowiedzi/026%20Przyczyny%20wielomoczu%20u%20dzieci.md)
@@ -124,7 +124,7 @@ Przygotowanie do egzaminu z Pediatrii
    1. [114 Skrining noworodkowy w kierunku bloku 21-hydroksylazy, objawy bloku i zasady leczenia](./odpowiedzi/114%20Skrining%20noworodkowy%20w%20kierunku%20bloku%2021-hydroksylazy,%20objawy%20bloku%20i%20zasady%20leczenia.md)
    1. [115 Przyczyny, objawy i leczenie pierwotnej niedoczynności i nadczynności tarczycy](./odpowiedzi/115%20Przyczyny,%20objawy%20i%20leczenie%20pierwotnej%20niedoczynności%20i%20nadczynności%20tarczycy.md)
    1. [116 Przyczyny i diagnostyka niedoboru wzrostu (przyczyny niezależne od zaburzeń hormonalnych)](./odpowiedzi/116%20Przyczyny%20i%20diagnostyka%20niedoboru%20wzrostu%20przyczyny%20niezależne%20od%20zaburzeń%20hormonalnych.md)
-   1. [117 Przyczyny i diagnostyka niedoboru wzrostu (przyczyny zależne od zaburzeń hormonalnych](./odpowiedzi/117%20Przyczyny%20i%20diagnostyka%20niedoboru%20wzrostu%20(przyczyny%20zależne%20od%20zaburzeń%20hormonalnych.md)
+   1. [117 Przyczyny i diagnostyka niedoboru wzrostu (przyczyny zależne od zaburzeń hormonalnych](./odpowiedzi/117%20Przyczyny%20i%20diagnostyka%20niedoboru%20wzrostu%20przyczyny%20zależne%20od%20zaburzeń%20hormonalnych.md)
    1. [118 Dziecko ze wzrostem wysokim; przyczyny, diagnostyka](./odpowiedzi/118%20Dziecko%20ze%20wzrostem%20wysokim;%20przyczyny,%20diagnostyka.md)
    1. [119 Diagnostyka i różnicowanie moczówki neurogennej](./odpowiedzi/119%20Diagnostyka%20i%20różnicowanie%20moczówki%20neurogennej.md)
    1. [120 Choroba i zespół Cushinga, objawy u dzieci, przyczyny i leczenie](./odpowiedzi/120%20Choroba%20i%20zespół%20Cushinga,%20objawy%20u%20dzieci,%20przyczyny%20i%20leczenie.md)
