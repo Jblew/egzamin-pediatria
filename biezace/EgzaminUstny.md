@@ -6,6 +6,8 @@
 - [Pytania 4](./pytania4.md)
 - [Pytania 5](./pytania5.md)
 - [Pytania 6](./pytania6.md)
+- [Pytania 7](./pytania7.md)
+- [Pytania 8](./pytania8.md)
 
 
 
