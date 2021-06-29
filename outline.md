@@ -164,4 +164,7 @@ Przygotowanie do egzaminu z Pediatrii
    1. [154 Wstrząs anafilaktyczny](./odpowiedzi/154%20Wstrząs%20anafilaktyczny.md)
    1. [155 Powikłania zapaleń płuc](./odpowiedzi/155%20Powikłania%20zapaleń%20płuc.md)
    1. [156 Zespół dyskinetycznych rzęsek](./odpowiedzi/156%20Zespół%20dyskinetycznych%20rzęsek.md)
+   1. TODO: dawki kluczowych leków
+   1. TODO: EKG
+   1. TODO: kluczowe badania poziomy (morfologia, biochemia)
 
