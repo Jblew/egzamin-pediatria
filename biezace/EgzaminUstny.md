@@ -364,16 +364,59 @@ Podstawowymi objawami krążeniowymi krytycznych wad wrodzonych serca u noworodk
 
 ![Screenshot 2021-06-29 at 12.49.09](img/Screenshot%202021-06-29%20at%2012.49.09.png)
 
+![Screenshot 2021-06-29 at 12.52.01](img/Screenshot%202021-06-29%20at%2012.52.01.png)
+
+![Screenshot 2021-06-29 at 12.52.21](img/Screenshot%202021-06-29%20at%2012.52.21.png)
+
+![Screenshot 2021-06-29 at 12.52.29](img/Screenshot%202021-06-29%20at%2012.52.29.png)
+
+![Screenshot 2021-06-29 at 12.52.40](img/Screenshot%202021-06-29%20at%2012.52.40.png)
+
+
+
+
+
+## 8.3 Zespół nerczycowy - rozpoznanie i postępowanie objawowe niewydolność serca (objawy)
+
+![Screenshot 2021-06-29 at 12.56.27](img/Screenshot%202021-06-29%20at%2012.56.27.png)
+
+![Screenshot 2021-06-29 at 12.56.35](img/Screenshot%202021-06-29%20at%2012.56.35.png)
+
+![Screenshot 2021-06-29 at 12.56.48](img/Screenshot%202021-06-29%20at%2012.56.48.png)
+
+![Screenshot 2021-06-29 at 12.56.57](img/Screenshot%202021-06-29%20at%2012.56.57.png)
+
+![Screenshot 2021-06-29 at 12.57.06](img/Screenshot%202021-06-29%20at%2012.57.06.png)
+
+![Screenshot 2021-06-29 at 12.57.27](img/Screenshot%202021-06-29%20at%2012.57.27.png)
+
+![Screenshot 2021-06-29 at 12.57.37](img/Screenshot%202021-06-29%20at%2012.57.37.png)
+
+![Screenshot 2021-06-29 at 12.57.51](img/Screenshot%202021-06-29%20at%2012.57.51.png)
+
+![Screenshot 2021-06-29 at 12.58.01](img/Screenshot%202021-06-29%20at%2012.58.01.png)
+
+![Screenshot 2021-06-29 at 12.58.10](img/Screenshot%202021-06-29%20at%2012.58.10.png)
+
+![Screenshot 2021-06-29 at 12.58.20](img/Screenshot%202021-06-29%20at%2012.58.20.png)
+
+![Screenshot 2021-06-29 at 12.58.28](img/Screenshot%202021-06-29%20at%2012.58.28.png)
+
+![Screenshot 2021-06-29 at 12.58.38](img/Screenshot%202021-06-29%20at%2012.58.38.png)
+
+![Screenshot 2021-06-29 at 12.58.49](img/Screenshot%202021-06-29%20at%2012.58.49.png)
+
+![Screenshot 2021-06-29 at 12.59.03](img/Screenshot%202021-06-29%20at%2012.59.03.png)
+
+![Screenshot 2021-06-29 at 12.59.12](img/Screenshot%202021-06-29%20at%2012.59.12.png)
 
 
 
 
 
 
-Zestaw 8
 
-z. nerczycowy - rozpoznanie i postępowanie objawowe 
-niewydolność serca (objawy)
+
 
 Zestaw 9
 Onn
