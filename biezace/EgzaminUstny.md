@@ -414,12 +414,35 @@ Podstawowymi objawami krążeniowymi krytycznych wad wrodzonych serca u noworodk
 
 
 
+## 9.1 ONN
+
+![Screenshot 2021-06-29 at 13.15.09](img/Screenshot%202021-06-29%20at%2013.15.09.png)
+
+![Screenshot 2021-06-29 at 13.15.21](img/Screenshot%202021-06-29%20at%2013.15.21.png)
+
+![Screenshot 2021-06-29 at 13.15.31](img/Screenshot%202021-06-29%20at%2013.15.31.png)
+
+![Screenshot 2021-06-29 at 13.15.41](img/Screenshot%202021-06-29%20at%2013.15.41.png)
+
+![Screenshot 2021-06-29 at 13.16.19](img/Screenshot%202021-06-29%20at%2013.16.19.png)
+
+![Screenshot 2021-06-29 at 13.16.30](img/Screenshot%202021-06-29%20at%2013.16.30.png)
+
+![Screenshot 2021-06-29 at 13.16.39](img/Screenshot%202021-06-29%20at%2013.16.39.png)
+
+![Screenshot 2021-06-29 at 13.16.49](img/Screenshot%202021-06-29%20at%2013.16.49.png)
+
+![Screenshot 2021-06-29 at 13.17.05](img/Screenshot%202021-06-29%20at%2013.17.05.png)
+
+
+
+
+
 
 
 
 
 Zestaw 9
-Onn
 czynnościowe bóle brzucha- objawy alarmowe u 12-latki 
 zaburzenia wzrastania w poszczególnych grupach wiekowych
 
