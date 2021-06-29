@@ -65,119 +65,161 @@ Kawalec pisze że farmakologicznie tak samo jak CU:
 
 
 
-Zestaw 12
-Symptomatologia zaburzeń rytmu serca u dzieci
-Owsica - objawy, rozpoznanie, postępowanie
-Zespół Schönleina-Henocha - rozpoznanie, postępowanie (ale w sumie to wszystko)
 
-Zestaw 13
-mukowiscydoza
-wady moczowego
-krwawienie z dolnego odcinka pp u noworodka i nastolatka
 
-Zestaw 14
-Niemowlę 10kg przyjęte do szpitala z biegunką od 3 dób, ostatni raz oddało mocz 6h temu, apatyczne, śluzówki podsychające, fałd skórny powoli się rozprostowuje. Diagnostyka, jaki to stopień (raczej II stopień) odwodnienia, jakie postępowanie (u doc. Pawelec najpierw różnicuj, czy odwodnienie jest hipo/hiper/izotoniczne)
-Hemofilia - objawy, rozpoznanie, leczenie 
-Kaszel - diagnostyka różnicowa (docent Kuchar pyta o odruch kaszlowy i jak wygląda droga odruchu + kaszel psychogenny czym się charakteryzuje) 
+## 12.1 Symptomatologia zaburzeń rytmu serca u dzieci
 
-Zestaw 16
-Przypadek: róża
-Niedokrwistości z niedoboru Fe 
-Kawasaki
+- −  mogą być bezobjawowe
+- −  niepokój
+- −  zblednięcie lub sinica obwodowa
+- −  wymioty
+- −  niechęć do jedzenia
+- −  objawy zastoinowej niewydolności serca
+- −  uczucie szybkiego bicia serca
+- −  niepokój, lęk
+- −  ból w klatce piersiowej
+- −  bóle brzucha
+- −  wstrząs
+- −  zasłabnięcie, utrata przytomności
+- −  zatrzymanie czynności serca
 
-Zestaw 18
-Przypadek z pylorostenozą odźwiernika, diagnoza, diagnostyka,leczenie
-Powiększone węzły chłonne- przyczyny, diagnostyka
-Opóźnione dojrzewanie płciowe- diagnostyka
+![Screenshot 2021-06-29 at 15.34.56](img/Screenshot%202021-06-29%20at%2015.34.56.png)
 
-Zestaw 19
-5-letnie dziecko połknęło baterię. Co zalecisz?
-Skazy małopłytkowe u dzieci - podział, objawy, rozpoznanie
-Zapalenie mięśnia sercowego / Nabyte wady serca
+![Screenshot 2021-06-29 at 15.35.22](img/Screenshot%202021-06-29%20at%2015.35.22.png)
 
-Zestaw 20
-7-latek po urazie brzucha po kolizji rowerowej - co podejrzewasz, jakie badania, jakie leczenie (OZT czy pęknięcie śledziony) (chyba jeszcze wymioty)
-guzy OUN
-różnicowanie świszczącego oddechu
-Zestaw 21(?)
-9-msc dziecko z zapaleniem układu moczowego. Objawy, rozpoznanie, leczenie.
-Drgawki gorączkowe u dziecka (generalnie wszystko c0o wiemy)
-Hipoglikemia u dziecka z cukrzycą. Rozpoznanie, postępowanie, leczenie (pytała co jak nieprzytomne a nie w szpitalu).
 
-Zestaw 22
-Wskazania do hospitalizacji w ostrej biegunce
-Wrodzone niedokrwistości hemolityczne - objawy, diagnostyka, leczenie 
-Krztusiec - objawy, diagnostyka, leczenie
 
-Zestaw 23
-Karmienie piersią - jak bym zachęcił/a matkę do karmienia (doc. Pawelec pytała o wszystko - przeciwwskazania, do kiedy karmić etc.)
-Splenomegalia - przyczyny (doc. Pawelec dopytywała też o postępowanie, jakie badania, pytała o CMV - w której grupie wiekowej najgroźniejsze) 
-Odma opłucnowa - podział postępowanie ( co, jak na izbę przyjdzie takie dziecko)
 
-Zestaw 24
-Dziecko z anginą, rozpoznanie, leczenie, różnicowanie i pytanko co potem skontrolować(ASO i funkcje nerek)
-Zasady wprowadzania pokarmów alergizujących do diety
-Przyczyny nadciśnienia u dzieci
 
-Zestaw 25
-Dziecko 5miesiecy, ulewa od 2m. WYGINA SIE W ŁUK, placze. Raczej GERD  (inne przyczyny wymiotów)
-Powikłania zespołu nerczycowego (+dopytka z powikłań GKS)
-Częstoskurcz nadkomorowy
+## 12.2 Owsica - objawy, rozpoznanie, postępowanie
 
-Zestaw 26
-Diagnostyka celiakii , kiedy biopsja
-Guz w jamie brzusznej- diagnostyka, różnicowanie
-Stenoza aortalna
+![Screenshot 2021-06-29 at 15.37.04](img/Screenshot%202021-06-29%20at%2015.37.04.png)
 
-Zestaw (?)
-Jak mierzyć ciśnienie tętnicze (zasady pomiaru)
-Kiedy podejrzewać dziecko o nowotwór
-Screening noworodka
+![Screenshot 2021-06-29 at 15.37.13](img/Screenshot%202021-06-29%20at%2015.37.13.png)
 
-Zestaw (?)
-8-letnie dziecko z zapaleniem płuc
-Objawy skaz krwotocznych
-Dieta bezglutenowa – wskazania i ograniczenia
 
-Zestaw (?)
-Rozszerzanie diety u 5-miesięcznego dziecka karmionego wyłącznie piersią
-Diagnostyka niedokrwistości – objawy kliniczne, badania laboratoryjne
-Komorowe zaburzenia rytmu serca
 
-Zestaw (?)
-Chłopiec 2 lata, chowa się jak ma oddać stolec od czasu jak poszedł do przedszkola – nawykowe zaparcia - diagnostyka i leczenie
-Krwinkomocz – przyczyny, diagnostyka, morfologia, jakie zmiany w badaniu moczu po urazie pęcherza
-Wady serca ze zwiększonym przepływem płucnym
+## 12.3 Zespół Schönleina-Henocha - rozpoznanie, postępowanie (ale w sumie to wszystko)
 
-Zestaw (?)
-Dziecko z sepsą meningokokową (wymiotowało, sztywność karku, wybroczyny)
-Pojęcie wieku kostnego, zębowego, wzrostowego
-Kwasica ketonowa-objawy i leczenie
+![Screenshot 2021-06-29 at 15.39.06](img/Screenshot%202021-06-29%20at%2015.39.06.png)
 
-Zestaw (?)
-Choroba Hirschprunga objawy diagnostyka
-Zespół metaboliczny (kryteria rozpoznania i postępowania)
-Połknięcie baterii przez dziecko / zapalenie oskrzeli (objawy, etiologia, postępowanie)
+![Screenshot 2021-06-29 at 15.39.28](img/Screenshot%202021-06-29%20at%2015.39.28.png)
 
-Zestaw (?)
-Lamblioza - objawy diagnostyka, leczenie
-Astma - diagnostyka
-Zapalenie osierdzia
+![Screenshot 2021-06-29 at 15.39.52](img/Screenshot%202021-06-29%20at%2015.39.52.png)
 
-Zestaw (?)
-ZOMR
-Krwawienie z dopp
-Zapalenie oskrzelików 
-Zestaw
-antybiotykoterapia w zapaleniach gdo
-przypadek z atopowym zapaleniem skóry
+![Screenshot 2021-06-29 at 15.40.32](img/Screenshot%202021-06-29%20at%2015.40.32.png)
 
-Zestaw
-RSV (można zabłysnąć z programem lekowym dla wcześniaków pawlizumab
-zaburzenia czynności pęcherza
-dziecko z wysokim wzrostem
+![Screenshot 2021-06-29 at 15.41.06](img/Screenshot%202021-06-29%20at%2015.41.06.png)
 
-Zestaw
-KZN
-antybiotyki w układzie oddechowym
-dziecko 3m z rumieniem na twarzy i wysypką grudkowo-nadżerkową
+Choroba zwykle utrzymuje się kilka tygodni i samoogranicza się, może jednak nawracać.
+
+Rokowniczo istotne są zmiany w nerkach. (biopsja jeśli białkomocz długo się utrzymuje!)
+
+![Screenshot 2021-06-29 at 15.43.14](img/Screenshot%202021-06-29%20at%2015.43.14.png)
+
+![Screenshot 2021-06-29 at 15.43.24](img/Screenshot%202021-06-29%20at%2015.43.24.png)
+
+
+
+
+
+## 13.1 Mukowiscydoza
+
+![Screenshot 2021-06-29 at 15.44.36](img/Screenshot%202021-06-29%20at%2015.44.36.png)
+
+![Screenshot 2021-06-29 at 15.44.52](img/Screenshot%202021-06-29%20at%2015.44.52.png)
+
+![Screenshot 2021-06-29 at 15.45.07](img/Screenshot%202021-06-29%20at%2015.45.07.png)
+
+
+
+## 13.2 Wady układu moczowego
+
+![Screenshot 2021-06-29 at 15.49.03](img/Screenshot%202021-06-29%20at%2015.49.03.png)
+
+![Screenshot 2021-06-29 at 15.49.30](img/Screenshot%202021-06-29%20at%2015.49.30.png)
+
+![Screenshot 2021-06-29 at 15.49.39](img/Screenshot%202021-06-29%20at%2015.49.39.png)
+
+![Screenshot 2021-06-29 at 15.49.50](img/Screenshot%202021-06-29%20at%2015.49.50.png)
+
+![Screenshot 2021-06-29 at 15.49.59](img/Screenshot%202021-06-29%20at%2015.49.59.png)
+
+![Screenshot 2021-06-29 at 15.50.11](img/Screenshot%202021-06-29%20at%2015.50.11.png)
+
+![Screenshot 2021-06-29 at 15.50.30](img/Screenshot%202021-06-29%20at%2015.50.30.png)
+
+![Screenshot 2021-06-29 at 15.51.00](img/Screenshot%202021-06-29%20at%2015.51.00.png)
+
+![Screenshot 2021-06-29 at 15.51.23](img/Screenshot%202021-06-29%20at%2015.51.23.png)
+
+![Screenshot 2021-06-29 at 15.51.46](img/Screenshot%202021-06-29%20at%2015.51.46.png)
+
+![Screenshot 2021-06-29 at 15.51.57](img/Screenshot%202021-06-29%20at%2015.51.57.png)
+
+![Screenshot 2021-06-29 at 15.52.09](img/Screenshot%202021-06-29%20at%2015.52.09.png)
+
+![Screenshot 2021-06-29 at 15.52.19](img/Screenshot%202021-06-29%20at%2015.52.29.png)
+
+
+
+![Screenshot 2021-06-29 at 15.52.51](img/Screenshot%202021-06-29%20at%2015.52.51.png)
+
+![Screenshot 2021-06-29 at 15.53.04](img/Screenshot%202021-06-29%20at%2015.53.04.png)
+
+![Screenshot 2021-06-29 at 15.53.24](img/Screenshot%202021-06-29%20at%2015.53.24.png)
+
+
+
+![Screenshot 2021-06-29 at 15.53.35](img/Screenshot%202021-06-29%20at%2015.53.35.png)
+
+14) Ureterocele
+• Torbielowate poszerzenie ujścia moczowodu.
+o Proste – torbiel ujścia moczowodu pojedynczego.
+o Ektopowe – torbiel ujścia moczowodu drenującego górny segment
+podwójnej nerki; często ujście jest zwężone i utrudnia odpływ moczu powodując poszerzenie górnych dróg moczowych, czego następstwem może być zanik miąższu górnego segmentu nerki.
+• Badania:
+o scyntygrafia nerek w 2. miesiącu życia, o urografia,
+o cystoskopia,
+o cystoureterografiamikcyjna
+
+
+
+12) Nieprawidłowe położenie i/lub zrośniecie nerek
+• Położenie nerki w innym niż prawidłowym miejscu (ektopia nerki).
+• Zwykle nie powoduje dolegliwości. Czasem może dojść do ucisku na
+moczowód i utrudnienia odpływu moczu z nerki.
+• Nieprawidłowe położenie:
+o Niedokonanyzwrot
+o Nerka miedniczna (1:1000 żywo urodzonych) o Nerkabiodrowa
+o Nerkapiersiowa
+• Zrośnięcie nerek:
+o Nerkaplackowata=tarczowata=dyskowata(najcięższaforma)
+o Nerka podkowiasta (najczęściej zrastają się dolne bieguny obu nerek;
+mogą być połączone czynnym miąższem, torebkami lub pasmem łącznotkankowym); guz Wilmsa jest rozpoznawany w nerce podkowiastej częściej niż w populacji ogólnej
+• Skrzyżowane przemieszczenie nerek
+
+
+
+## 13.3 krwawienie z dolnego odcinka pp u noworodka i nastolatka
+
+![Screenshot 2021-06-29 at 16.09.19](img/Screenshot%202021-06-29%20at%2016.09.19.png)
+
+Noworodek:
+
+1. Urazy anorectum
+2. Ch. krwotoczna
+3. Ch. Hirchsprunga — enterocolitis
+4. Wady naczyniowe
+
+Młodzież:
+
+1. NZJ
+2. Polipy
+3. Zapalenie hemoroidów
+4. Biegunka infekcyjna
+5. Wady naczyń
+6. Nowotwory
+
+
+
