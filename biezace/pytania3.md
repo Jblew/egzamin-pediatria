@@ -1,5 +1,9 @@
 # Pytania 3
 
+[TOC]
+
+
+
 ## 14.1 Niemowlę 10kg przyjęte do szpitala z biegunką od 3 dób, ostatni raz oddało mocz 6h temu, apatyczne, śluzówki podsychające, fałd skórny powoli się rozprostowuje. Diagnostyka, jaki to stopień (raczej II stopień) odwodnienia, jakie postępowanie (u doc. Pawelec najpierw różnicuj, czy odwodnienie jest hipo/hiper/izotoniczne)
 
 ![Screenshot 2021-06-29 at 16.14.34](img/Screenshot%202021-06-29%20at%2016.14.34.png)
@@ -55,108 +59,133 @@ wg Hollidaya i Segara
 
 
 
+## 16.1 Róża
+
+![Screenshot 2021-06-29 at 16.41.08](img/Screenshot%202021-06-29%20at%2016.41.08.png)
+
+![Screenshot 2021-06-29 at 16.41.24](img/Screenshot%202021-06-29%20at%2016.41.24.png)
+
+
+
+## 16.2 Niedokrwistość z niedoboru Fe
+
+![Screenshot 2021-06-29 at 16.44.24](img/Screenshot%202021-06-29%20at%2016.44.24.png)
+
+![Screenshot 2021-06-29 at 16.44.36](img/Screenshot%202021-06-29%20at%2016.44.36.png)
+
+![Screenshot 2021-06-29 at 16.44.47](img/Screenshot%202021-06-29%20at%2016.44.47.png)
+
+![Screenshot 2021-06-29 at 16.44.58](img/Screenshot%202021-06-29%20at%2016.44.58.png)
 
 
 
 
-Zestaw 16
-Przypadek: róża
-Niedokrwistości z niedoboru Fe 
-Kawasaki
 
-Zestaw 18
-Przypadek z pylorostenozą odźwiernika, diagnoza, diagnostyka,leczenie
-Powiększone węzły chłonne- przyczyny, diagnostyka
-Opóźnione dojrzewanie płciowe- diagnostyka
+## 16.3 Kawasaki
 
-Zestaw 19
-5-letnie dziecko połknęło baterię. Co zalecisz?
-Skazy małopłytkowe u dzieci - podział, objawy, rozpoznanie
-Zapalenie mięśnia sercowego / Nabyte wady serca
+![Screenshot 2021-06-29 at 16.52.07](img/Screenshot%202021-06-29%20at%2016.52.07.png)
 
-Zestaw 20
-7-latek po urazie brzucha po kolizji rowerowej - co podejrzewasz, jakie badania, jakie leczenie (OZT czy pęknięcie śledziony) (chyba jeszcze wymioty)
-guzy OUN
-różnicowanie świszczącego oddechu
-Zestaw 21(?)
-9-msc dziecko z zapaleniem układu moczowego. Objawy, rozpoznanie, leczenie.
-Drgawki gorączkowe u dziecka (generalnie wszystko c0o wiemy)
-Hipoglikemia u dziecka z cukrzycą. Rozpoznanie, postępowanie, leczenie (pytała co jak nieprzytomne a nie w szpitalu).
+![Screenshot 2021-06-29 at 16.52.15](img/Screenshot%202021-06-29%20at%2016.52.15.png)
 
-Zestaw 22
-Wskazania do hospitalizacji w ostrej biegunce
-Wrodzone niedokrwistości hemolityczne - objawy, diagnostyka, leczenie 
-Krztusiec - objawy, diagnostyka, leczenie
+![Screenshot 2021-06-29 at 16.52.24](img/Screenshot%202021-06-29%20at%2016.52.24.png)
 
-Zestaw 23
-Karmienie piersią - jak bym zachęcił/a matkę do karmienia (doc. Pawelec pytała o wszystko - przeciwwskazania, do kiedy karmić etc.)
-Splenomegalia - przyczyny (doc. Pawelec dopytywała też o postępowanie, jakie badania, pytała o CMV - w której grupie wiekowej najgroźniejsze) 
-Odma opłucnowa - podział postępowanie ( co, jak na izbę przyjdzie takie dziecko)
+![Screenshot 2021-06-29 at 16.52.31](img/Screenshot%202021-06-29%20at%2016.52.31.png)
 
-Zestaw 24
-Dziecko z anginą, rozpoznanie, leczenie, różnicowanie i pytanko co potem skontrolować(ASO i funkcje nerek)
-Zasady wprowadzania pokarmów alergizujących do diety
-Przyczyny nadciśnienia u dzieci
+![Screenshot 2021-06-29 at 16.52.52](img/Screenshot%202021-06-29%20at%2016.52.52.png)
 
-Zestaw 25
-Dziecko 5miesiecy, ulewa od 2m. WYGINA SIE W ŁUK, placze. Raczej GERD  (inne przyczyny wymiotów)
-Powikłania zespołu nerczycowego (+dopytka z powikłań GKS)
-Częstoskurcz nadkomorowy
 
-Zestaw 26
-Diagnostyka celiakii , kiedy biopsja
-Guz w jamie brzusznej- diagnostyka, różnicowanie
-Stenoza aortalna
 
-Zestaw (?)
-Jak mierzyć ciśnienie tętnicze (zasady pomiaru)
-Kiedy podejrzewać dziecko o nowotwór
-Screening noworodka
+## 18.1 Przypadek z pylorostenozą odźwiernika, diagnoza, diagnostyka,leczenie
 
-Zestaw (?)
-8-letnie dziecko z zapaleniem płuc
-Objawy skaz krwotocznych
-Dieta bezglutenowa – wskazania i ograniczenia
+![Screenshot 2021-06-29 at 16.56.12](img/Screenshot%202021-06-29%20at%2016.56.12.png)
 
-Zestaw (?)
-Rozszerzanie diety u 5-miesięcznego dziecka karmionego wyłącznie piersią
-Diagnostyka niedokrwistości – objawy kliniczne, badania laboratoryjne
-Komorowe zaburzenia rytmu serca
+![Screenshot 2021-06-29 at 16.56.20](img/Screenshot%202021-06-29%20at%2016.56.20.png)
 
-Zestaw (?)
-Chłopiec 2 lata, chowa się jak ma oddać stolec od czasu jak poszedł do przedszkola – nawykowe zaparcia - diagnostyka i leczenie
-Krwinkomocz – przyczyny, diagnostyka, morfologia, jakie zmiany w badaniu moczu po urazie pęcherza
-Wady serca ze zwiększonym przepływem płucnym
+![Screenshot 2021-06-29 at 16.56.28](img/Screenshot%202021-06-29%20at%2016.56.28.png)
 
-Zestaw (?)
-Dziecko z sepsą meningokokową (wymiotowało, sztywność karku, wybroczyny)
-Pojęcie wieku kostnego, zębowego, wzrostowego
-Kwasica ketonowa-objawy i leczenie
 
-Zestaw (?)
-Choroba Hirschprunga objawy diagnostyka
-Zespół metaboliczny (kryteria rozpoznania i postępowania)
-Połknięcie baterii przez dziecko / zapalenie oskrzeli (objawy, etiologia, postępowanie)
 
-Zestaw (?)
-Lamblioza - objawy diagnostyka, leczenie
-Astma - diagnostyka
-Zapalenie osierdzia
 
-Zestaw (?)
-ZOMR
-Krwawienie z dopp
-Zapalenie oskrzelików 
-Zestaw
-antybiotykoterapia w zapaleniach gdo
-przypadek z atopowym zapaleniem skóry
 
-Zestaw
-RSV (można zabłysnąć z programem lekowym dla wcześniaków pawlizumab
-zaburzenia czynności pęcherza
-dziecko z wysokim wzrostem
 
-Zestaw
-KZN
-antybiotyki w układzie oddechowym
-dziecko 3m z rumieniem na twarzy i wysypką grudkowo-nadżerkową
+
+## 18.2 Powiększone węzły chłonne- przyczyny, diagnostyka
+
+![Screenshot 2021-06-29 at 17.17.38](img/Screenshot%202021-06-29%20at%2017.17.38.png)
+
+![Screenshot 2021-06-29 at 17.17.45](img/Screenshot%202021-06-29%20at%2017.17.45.png)
+
+![Screenshot 2021-06-29 at 17.17.56](img/Screenshot%202021-06-29%20at%2017.17.56.png)
+
+![Screenshot 2021-06-29 at 17.18.29](img/Screenshot%202021-06-29%20at%2017.18.29.png)
+
+![Screenshot 2021-06-29 at 17.18.38](img/Screenshot%202021-06-29%20at%2017.18.38.png)
+
+![Screenshot 2021-06-29 at 17.18.54](img/Screenshot%202021-06-29%20at%2017.18.54.png)
+
+![Screenshot 2021-06-29 at 17.19.07](img/Screenshot%202021-06-29%20at%2017.19.07.png)
+
+![Screenshot 2021-06-29 at 17.19.17](img/Screenshot%202021-06-29%20at%2017.19.17.png)
+
+![Screenshot 2021-06-29 at 17.19.28](img/Screenshot%202021-06-29%20at%2017.19.28.png)
+
+![Screenshot 2021-06-29 at 17.19.37](img/Screenshot%202021-06-29%20at%2017.19.37.png)
+
+## 18.3 Opóźnione dojrzewanie płciowe- diagnostyka
+
+![Screenshot 2021-06-29 at 17.30.00](img/Screenshot%202021-06-29%20at%2017.30.00.png)
+
+![Screenshot 2021-06-29 at 17.30.31](img/Screenshot%202021-06-29%20at%2017.30.31.png)
+
+![Screenshot 2021-06-29 at 17.30.50](img/Screenshot%202021-06-29%20at%2017.30.50.png)
+
+![Screenshot 2021-06-29 at 17.31.18](img/Screenshot%202021-06-29%20at%2017.31.18.png)
+
+![Screenshot 2021-06-29 at 17.31.38](img/Screenshot%202021-06-29%20at%2017.31.38.png)
+
+![Screenshot 2021-06-29 at 17.32.47](img/Screenshot%202021-06-29%20at%2017.32.47.png)
+
+
+
+## 19.1 5-letnie dziecko połknęło baterię. Co zalecisz?
+
+![Screenshot 2021-06-29 at 17.38.53](img/Screenshot%202021-06-29%20at%2017.38.53.png)
+
+
+
+## 19.2 Skazy małopłytkowe u dzieci - podział, objawy, rozpoznanie
+
+![Screenshot 2021-06-29 at 18.04.11](img/Screenshot%202021-06-29%20at%2018.04.11.png)
+
+![Screenshot 2021-06-29 at 18.04.20](img/Screenshot%202021-06-29%20at%2018.04.20.png)
+
+![Screenshot 2021-06-29 at 18.04.32](img/Screenshot%202021-06-29%20at%2018.04.32.png)
+
+![Screenshot 2021-06-29 at 18.05.30](img/Screenshot%202021-06-29%20at%2018.06.09.png)
+
+![Screenshot 2021-06-29 at 18.06.50](img/Screenshot%202021-06-29%20at%2018.06.50.png)
+
+
+
+
+
+## 19.3 Zapalenie mięśnia sercowego / Nabyte wady serca
+
+![Screenshot 2021-06-29 at 18.09.26](img/Screenshot%202021-06-29%20at%2018.09.26.png)
+
+![Screenshot 2021-06-29 at 18.09.35](img/Screenshot%202021-06-29%20at%2018.09.35.png)
+
+![Screenshot 2021-06-29 at 18.09.45](img/Screenshot%202021-06-29%20at%2018.09.45.png)
+
+![Screenshot 2021-06-29 at 18.10.22](img/Screenshot%202021-06-29%20at%2018.10.22.png)
+
+![Screenshot 2021-06-29 at 18.10.33](img/Screenshot%202021-06-29%20at%2018.10.33.png)
+
+
+
+
+
+
+
+
+
